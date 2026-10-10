@@ -1,154 +1,153 @@
-<!--
-  SOHAIL ANSARI | GitHub Profile README
-  Visual direction: Dark editorial / minimal / premium
--->
+ <div align="center">
 
-<div align="center">
-
-  <img src="./banner.png" width="100%" alt="Sohail Ansari — Full-Stack Developer" />
+  <img src="./assets/banner.png" width="100%" alt="Sohail Ansari | Full-Stack Developer" />
 
   <br/>
 
-  <h1>Sohail Ansari</h1>
-
   <p>
-    <strong>Full-Stack Developer</strong> · Computer Science Engineering
-  </p>
-
-  <p>
-    Building useful products through thoughtful engineering.
-  </p>
-
-  <p>
-    <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-    &nbsp;·&nbsp;
-    <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:sohailansarisa318@gmail.com">Email</a>
+    <a href="https://portfolio-7ps6.vercel.app/">PORTFOLIO ↗</a>
+    &nbsp; / &nbsp;
+    <a href="https://www.linkedin.com/in/sohailansari163/">LINKEDIN ↗</a>
+    &nbsp; / &nbsp;
+    <a href="mailto:sohailansarisa318@gmail.com">EMAIL ↗</a>
   </p>
 
 </div>
 
 ---
 
-## About
-
-I'm a Computer Science undergraduate interested in full-stack development, cloud technologies, and AI-powered applications.
-
-My work focuses on building practical software, from web applications and mobile experiences to systems designed to improve real-world workflows.
-
-- Currently pursuing B.Tech in Computer Science Engineering at GITS.
-- Working with the MERN stack and React Native.
-- Exploring AWS, application architecture, and AI/ML.
-- Practising C++ and data structures and algorithms.
-
----
-
-## Selected work
-
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 01 / BugFlow
+### 02. / ABOUT
 
-A full-stack bug tracking platform designed to manage software issues and team workflows.
+Computer Science undergraduate and Full-Stack Developer building practical products that solve real problems.
 
-**Focus**
-- Authentication and role-based access
-- Bug lifecycle management
-- REST API architecture
+I work with the MERN stack, React Native, AWS, and modern development tools. Interested in reliable systems, useful interfaces, and software that makes a difference.
 
-`React` `Node.js` `Express` `MongoDB` `JWT`
+**Currently focused on**
+- Full-stack product development
+- Data structures and algorithms
+- Linux administration and cloud technologies
 
-[Explore repository →](YOUR_BUGFLOW_REPO_URL)
+</td>
+<td width="50%" valign="top">
 
-    </td>
-    <td width="50%" valign="top">
+### 03. / TECH STACK
 
-### 02 / SudhaarX
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react" alt="Programming languages and React" />
 
-A civic issue reporting application built to help citizens report local problems and track complaints.
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend and database technologies" />
 
-**Focus**
-- Geo-tagged issue reporting
-- Complaint tracking
-- Administrative issue management
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" alt="Cloud, Linux and developer tools" />
 
-`React Native` `Node.js` `MongoDB` `Firebase`
-
-[Explore repository →](YOUR_SUDHAARX_REPO_URL)
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-## Technology
+### 04. / CERTIFICATION
 
-<p>
-  <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" alt="C, C++, Python, JavaScript and TypeScript"/>
-</p>
+<table>
+<tr>
+<td width="70">
 
-<p>
-  <strong>Frontend & Mobile</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,html,css,vite" alt="React, HTML, CSS and Vite"/>
-</p>
+<img src="https://cdn.simpleicons.org/redhat/EE0000" width="48" alt="Red Hat" />
 
-<p>
-  <strong>Backend & Database</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Node.js, Express, MongoDB and Firebase"/>
-</p>
+</td>
+<td>
 
-<p>
-  <strong>Tools & Cloud</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman" alt="Git, GitHub, Docker, AWS and Postman"/>
-</p>
+**Red Hat Certified System Administrator**
+
+RHCSA · Red Hat Enterprise Linux
+
+Linux administration · System services · Storage · User management
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Experience & recognition
+### 05. / EXPERIENCE & RECOGNITION
 
 **AWS Student Builder Club, GITS**  
-*Tech Lead · October 2025 – Present*
+`TECH LEAD · OCT 2025 – PRESENT`
 
-Leading technical learning initiatives, supporting student projects, and mentoring members in AWS and web development.
+Leading technical workshops, mentoring students, and supporting cloud learning initiatives.
 
 **AI/ML Trainee · Grras Solutions**  
-*45-day training programme*
+`45-DAY TRAINING PROGRAM`
 
-Completed practical training covering machine learning, deep learning, Python, data preprocessing, and model evaluation.
+Practical training in machine learning, deep learning, Python, data preprocessing, and model evaluation.
 
 **Selected achievements**
-- 2nd Runner-Up — Internal Smart India Hackathon 2025
-- 2nd Runner-Up — DSA Forge
-- Finalist — CodeFiesta 3.0 Hackathon
-- Best Research Paper — SPSU International Research Conference
+
+- 2nd Runner-Up · Internal Smart India Hackathon 2025
+- 2nd Runner-Up · DSA Forge
+- Finalist · CodeFiesta 3.0 Hackathon
+- Best Research Paper · SPSU International Research Conference
+- Participant · Google LakeCity Hackathon
 
 ---
 
-## GitHub activity
+### 06. / SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="YOUR_BUGFLOW_REPO_URL">
+<img src="./BUGFLOW.png" width="100%" alt="BugFlow project preview" />
+</a>
+
+#### BugFlow
+
+A full-stack bug tracking platform for managing issues, authentication, and collaborative workflows.
+
+`REACT` `NODE.JS` `EXPRESS` `MONGODB` `JWT`
+
+[VIEW PROJECT ↗](YOUR_BUGFLOW_REPO_URL)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="YOUR_SUDHAARX_REPO_URL">
+<img src="./SudhaarX.jpeg" width="100%" alt="SudhaarX project preview" />
+</a>
+
+#### SudhaarX
+
+A civic issue reporting application with geo-tagging, complaint tracking, and an administrative dashboard.
+
+`REACT NATIVE` `NODE.JS` `MONGODB` `FIREBASE`
+
+[VIEW PROJECT ↗](YOUR_SUDHAARX_REPO_URL)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 07. / GITHUB ACTIVITY
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=5ohail&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=A78BFA"
-    alt="GitHub statistics"
-    width="49%"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=5ohail&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF453A&text_color=E8E2D9&icon_color=FF453A" width="49%" alt="GitHub statistics" />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=5ohail&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
-    alt="Most-used programming languages"
-    width="41%"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5ohail&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF453A&text_color=E8E2D9" width="41%" alt="Most-used languages" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed with intention. Built with code.</sub>
+
+<p><strong>STAY CURIOUS. KEEP BUILDING. BECOME UNDENIABLE.</strong></p>
+
+<sub>SOHAIL ANSARI · FULL-STACK DEVELOPER · 2026</sub>
+
 </div>
