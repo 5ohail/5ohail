@@ -1,6 +1,6 @@
  <div align="center">
 
-  <img src="./assets/banner.png" width="100%" alt="Sohail Ansari | Full-Stack Developer" />
+  <img src="./banner.png" width="100%" alt="Sohail Ansari | Full-Stack Developer" />
 
   <br/>
 
